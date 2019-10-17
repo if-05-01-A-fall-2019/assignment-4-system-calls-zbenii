@@ -16,10 +16,10 @@ Displays a file or file system status with different arguments:
 
 ### kill
 It sends any signal to any process group or process with different arguments:
-* -s <signal> -> Specify the signal using name or number
+* -s < signal > -> Specify the signal using name or number
 * -l, --list -> list signal names
 * -L, --table -> list signal names in a table
-* <pid> ... -> send signal to every <pid> listed
+* < pid > ... -> send signal to every < pid > listed
 
 **FAIL: The process was suspended**
 
